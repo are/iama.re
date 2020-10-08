@@ -1,0 +1,44 @@
+@font-face {
+  src: url(../assets/fonts/Arvo-Regular.ttf);
+  font-family: Arvo;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../assets/fonts/Arvo-Bold.ttf);
+  font-family: Arvo;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url(../assets/fonts/Arvo-Italic.ttf);
+  font-family: Arvo;
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../assets/fonts/Arvo-BoldItalic.ttf);
+  font-family: Arvo;
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../assets/fonts/LibreBaskerville-Regular.ttf);
+  font-family: LibreBaskerville;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../assets/fonts/LibreBaskerville-Italic.ttf);
+  font-family: LibreBaskerville;
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../assets/fonts/LibreBaskerville-Bold.ttf);
+  font-family: LibreBaskerville;
+  font-weight: bold;
+}

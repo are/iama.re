@@ -1,0 +1,25 @@
+{
+  "name": "iama.re",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html"
+  },
+  "keywords": [],
+  "author": "Artur Wojciechowski",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "browserslist": [
+    "last 2 Chrome version"
+  ],
+  "dependencies": {
+    "destyle.css": "^1.0.15"
+  }
+}
